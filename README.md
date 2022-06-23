@@ -1,6 +1,7 @@
 # CSVTextAnalyser
 ## About the software
 This software contains several tools that are designed to analyse textual data within a CSV file. Whilst the software was originally designed to analyse unprompted free-text entries of medical patients with Multiple Sclerosis (MS), many of the analytical tools will work with any CSV file that contains a column with text entries.
+
 Lead developer and contributor: Matt Barker
 
 ## Installation
