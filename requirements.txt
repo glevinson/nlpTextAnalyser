@@ -1,0 +1,6 @@
+nltk
+pandas
+pytest
+matplotlib
+numpy
+
