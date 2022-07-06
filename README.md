@@ -1,3 +1,11 @@
+# Installation
+The project requires Python version 3.8 or later. The required libraries can be found in the requirements.txt file. 
+
+A text file containing a list of stopwords to be removed must be placed in nltk_data/stopwords and called "english.txt". We recommend the one found on NLTK_data at: https://www.nltk.org/nltk_data/ 
+
+For the user/trend analysis to work, we require the VADER sentiment (Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.) model zip file top be placed in nltk_data/sentiment/ This can again be found on the NTLK data website: https://www.nltk.org/nltk_data/
+
+
 # CSVTextAnalyser
 ## About the software
 This software contains several tools that are designed to analyse textual data within a CSV file. Whilst the software was originally designed to analyse unprompted free-text entries of medical patients with Multiple Sclerosis (MS), many of the analytical tools will work with any CSV file that contains a column with text entries.
