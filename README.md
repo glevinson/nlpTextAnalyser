@@ -10,9 +10,6 @@ For the user/trend analysis to work, we require the VADER sentiment (Hutto, C.J.
 ## About the software
 This software contains several tools that are designed to analyse textual data within a CSV file. Whilst the software was originally designed to analyse unprompted free-text entries of medical patients with Multiple Sclerosis (MS), many of the analytical tools will work with any CSV file that contains a column with text entries.
 
-Lead developer and contributor: Matt Barker
-
-User and trend analysis developer: Taole Chen
 
 ## Installation
 The project requires Python version 3.8 or later. The required libraries can be found in the requirements.txt file. 
